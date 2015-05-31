@@ -4,7 +4,12 @@
 
 Access Statamic from cron jobs
 
-Usage:
+## Installation
+
+    cd <statamic site root>
+    git clone https://github.com/gazsp/statamic-cron.git cron
+
+## Usage
 
 Just add the following to your crontab:
 
