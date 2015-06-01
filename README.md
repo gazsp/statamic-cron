@@ -13,4 +13,4 @@ Access Statamic from cron jobs
 
 Just add the following to your crontab:
 
-    /path/to/webroot/cron/bootstrap.php <script_name>
+    cd <statamic site root>; cron/bootstrap.php <script_name>
